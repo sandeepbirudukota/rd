@@ -25,3 +25,7 @@ six==1.16.0
 sklearn==0.0.post1
 threadpoolctl==3.1.0
 Werkzeug==2.2.2
+dash
+dash_bootstrap_components
+category_encoders
+pandas
